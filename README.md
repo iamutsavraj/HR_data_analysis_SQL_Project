@@ -1,5 +1,5 @@
 # HR_data_analysis
-Welcome to this HR Data Analytics repository.
+**🌟Welcome to this HR Data Analytics repository.**
 
 **I have completed this project during my sql internship at Pysliq.**
 
