@@ -9,4 +9,6 @@ Welcome to this HR Data Analytics repository.
 
 I'm uploading sql file as well the presentation file in this repository. 
 
+Due to the data privacy and security reasons of Pysliq Community, I'm not be able to upload the dataset used in this project.
+
 I hope you will like my work. Thank you for visiting 🙇‍♂️
